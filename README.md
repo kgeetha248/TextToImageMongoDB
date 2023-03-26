@@ -1,5 +1,5 @@
 # TextToImageMongoDB
-Using streamlit GUT, the inputs like Hashtag / keyword to be searched , No.of tweets to be scraped and date range are taken.
+Using streamlit GUI, the inputs - Hashtag / keyword to be searched , No.of tweets to be scraped and date range are taken.
 
 Using snscrape ( a scraper for social networking services (SNS) ), twitter is scraped for the user inputs.
 
